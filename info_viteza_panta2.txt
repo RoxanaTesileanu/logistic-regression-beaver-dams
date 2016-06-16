@@ -1,0 +1,16 @@
+NrPunct rauri prezenta viteza.apei	panta			 
+6	CasinuMic	1	0.4	33
+7	CasinuMic	1	0.3	1
+8	CasinuMic	1	0.3	1
+9	CasinuMic	1	0.3	1
+10	CasinuMic	1	0.05	1
+11	FundulParaului	1	0.15	2
+12	FundulParaului	1	0.1	1
+14	FundulParaului	1	0.2	0.9
+15	FundulParaului	1	0.15	3
+22	Barsa	1	0	0.3
+28	FundulParaului	0	0.25	1	
+29	CasinuMic	0	0.35	1
+30	PanicelRasnov	0	0.5	1
+31	RaulNegruLunga	0	0.5	1
+32	Martanus	0	0.5	1.5
